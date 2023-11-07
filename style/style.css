@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+h2.hour{
+    display: inline-block;
+}
+h2.minite{
+    display: inline-block;
+}
+h2.second{
+    display: inline-block;
+}
